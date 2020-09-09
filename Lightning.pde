@@ -1,7 +1,7 @@
 int startX = 0;
-int startY = 50;
+int startY = 100;
 int endX = 0;
-int endY = 50;
+int endY = 100;
 void setup()
 {
     size(300,300);
@@ -23,7 +23,7 @@ void draw()
 void mousePressed()
 {
     startX=0;
-    startY=50;
+    startY=100;
     endX=0;
-    endY=50;
+    endY=100;
     }
